@@ -1,0 +1,478 @@
+OBS 23.2.1 (64-bit, windows) log file uploaded at 2019-08-25, 15:46:48
+
+15:32:53.788: CPU Name: AMD Ryzen 5 2600 Six-Core Processor            
+15:32:53.788: CPU Speed: 3394MHz
+15:32:53.788: Physical Cores: 6, Logical Cores: 12
+15:32:53.788: Physical Memory: 16331MB Total, 10988MB Free
+15:32:53.788: Windows Version: 10.0 Build 17763 (revision: 678; 64-bit)
+15:32:53.788: Running as administrator: false
+15:32:53.788: Aero is Enabled (Aero is always on for windows 8 and above)
+15:32:53.788: Windows 10 Gaming Features:
+15:32:53.788: 	Game DVR: On
+15:32:53.790: Sec. Software Status:
+15:32:53.790: 	Antivirov� ochrana v�programu Windows Defender: disabled (AV)
+15:32:53.791: 	ESET Security: enabled (AV)
+15:32:53.791: 	Br�na Windows Firewall: enabled (FW)
+15:32:53.791: 	ESET Security: enabled (ASW)
+15:32:53.791: 	Antivirov� ochrana v�programu Windows Defender: disabled (ASW)
+15:32:53.791: Current Date/Time: 2019-08-25, 15:32:53
+15:32:53.791: Browser Hardware Acceleration: true
+15:32:53.791: Portable mode: false
+15:32:54.117: OBS 23.2.1 (64-bit, windows)
+15:32:54.117: ---------------------------------
+15:32:54.117: ---------------------------------
+15:32:54.117: audio settings reset:
+15:32:54.117: 	samples per sec: 48000
+15:32:54.117: 	speakers:        2
+15:32:54.118: ---------------------------------
+15:32:54.118: Initializing D3D11...
+15:32:54.118: Available Video Adapters: 
+15:32:54.119: 	Adapter 0: NVIDIA GeForce GTX 1070 Ti
+15:32:54.120: 	  Dedicated VRAM: 4176478208
+15:32:54.120: 	  Shared VRAM:    4267294720
+15:32:54.120: 	  output 0: pos={0, 0}, size={1920, 1080}, attached=true
+15:32:54.120: 	  output 1: pos={1920, 0}, size={1920, 1080}, attached=true
+15:32:54.121: Loading up D3D11 on adapter NVIDIA GeForce GTX 1070 Ti (0)
+15:32:54.174: D3D11 loaded successfully, feature level used: 45056
+15:32:55.051: ---------------------------------
+15:32:55.051: video settings reset:
+15:32:55.051: 	base resolution:   1920x1080
+15:32:55.051: 	output resolution: 1280x720
+15:32:55.051: 	downscale filter:  Lanczos
+15:32:55.051: 	fps:               60/1
+15:32:55.051: 	format:            NV12
+15:32:55.051: 	YUV mode:          601/Partial
+15:32:55.051: NV12 texture support enabled
+15:32:55.053: Audio monitoring device:
+15:32:55.053: 	name: Výchozí
+15:32:55.053: 	id: default
+15:32:55.054: ---------------------------------
+15:32:55.057: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+15:32:55.058: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+15:32:55.094: [AMF] AMF Test failed due to one or more errors.
+15:32:55.094: Failed to initialize module 'enc-amf.dll'
+15:32:55.106: Module '../../obs-plugins/64bit/libEGL.dll' not loaded
+15:32:55.108: [obs-browser]: Version 2.3.1
+15:32:55.139: obs-browser: StreamElementsLocalWebFilesServer: folder does not exist: 
+15:32:55.140: obs-browser: StreamElementsExternalSceneDataProviderSlobsClient: path does not exist: C:/Users/HomoH/AppData/Roaming/slobs-client/SceneCollections
+15:32:55.141: obs-browser: init: cookie storage path set to: C:\Users\HomoH\AppData\Roaming\obs-studio/plugin_config/obs-browser/cef.3.1705.chrome.63.0.3239.109
+15:32:55.141: obs-browser: state: restoring state from base64: eyJkb2NraW5nQnJvd3NlcldpZGdldHMiOnsiezI0ZDdkZDMyLThkMjctNGJlMi1iZjQ2LTJiODgzOWRmYmZhN30iOnsiZG9ja2luZ0FyZWEiOiJsZWZ0IiwiZXhlY3V0ZUphdmFTY3JpcHRPbkxvYWQiOiJcbiAgICAgICAgKGZ1bmN0aW9uKCkge1xuICAgICAgICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKCdhdXhjbGljaycsIGZ1bmN0aW9uKGUpIHsgZS5wcmV2ZW50RGVmYXVsdCgpOyB9KTtcbiAgICAgICAgICB3aW5kb3cubG9jYWxTdG9yYWdlLnNldEl0ZW0oJ2J0dHZfZGFya2VuZWRNb2RlJywgdHJ1ZSk7XG4gICAgICAgICAgdmFyIGJ0dHYgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTtcbiAgICAgICAgICBidHR2LnNldEF0dHJpYnV0ZSgnc3JjJywgJ2h0dHBzOi8vY2RuLmJldHRlcnR0di5uZXQvYmV0dGVydHR2LmpzJyk7XG4gICAgICAgICAgZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChidHR2KTtcbiAgICAgICAgICB2YXIgZmZ6ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7XG4gICAgICAgICAgZmZ6LnNldEF0dHJpYnV0ZSgnc3JjJywnaHR0cHM6Ly9jZG4uZnJhbmtlcmZhY2V6LmNvbS9zY3JpcHQvc2NyaXB0Lm1pbi5qcycpO1xuICAgICAgICAgIGRvY3VtZW50LmhlYWQuYXBwZW5kQ2hpbGQoZmZ6KTtcbiAgICAgICAgICBcbiAgICAgICAgICBmdW5jdGlvbiBvbkhvc3RSZWFkeSgpIHtcbiAgICAgICAgICAgIGlmICghd2luZG93Lmhvc3Quc2V0Q29udGFpbmVyRm9yZWlnblBvcHVwV2luZG93c1Byb3BlcnRpZXMpIHJldHVybjtcbiAgICAgICAgICAgIFxuICAgICAgICAgICAgd2luZG93Lmhvc3Quc2V0Q29udGFpbmVyRm9yZWlnblBvcHVwV2luZG93c1Byb3BlcnRpZXMoe1xuICAgICAgICAgICAgICBleGVjdXRlSmF2YVNjcmlwdE9uTG9hZDogXCIoZnVuY3Rpb24oKSB7IFwiICtcbiAgICAgICAgICAgICAgICBcIndpbmRvdy5sb2NhbFN0b3JhZ2Uuc2V0SXRlbSgnYnR0dl9kYXJrZW5lZE1vZGUnLCB0cnVlKTsgXCIgK1xuICAgICAgICAgICAgICAgIFwidmFyIGJ0dHYgPSBkb2N1bWVudC5jcmVhdGVFbGVtZW50KCdzY3JpcHQnKTsgXCIgK1xuICAgICAgICAgICAgICAgIFwiYnR0di5zZXRBdHRyaWJ1dGUoJ3NyYycsICdodHRwczovL2Nkbi5iZXR0ZXJ0dHYubmV0L2JldHRlcnR0di5qcycpOyBcIiArXG4gICAgICAgICAgICAgICAgXCJkb2N1bWVudC5oZWFkLmFwcGVuZENoaWxkKGJ0dHYpOyBcIiArXG4gICAgICAgICAgICAgICAgXCJ2YXIgZmZ6ID0gZG9jdW1lbnQuY3JlYXRlRWxlbWVudCgnc2NyaXB0Jyk7IFwiICtcbiAgICAgICAgICAgICAgICBcImZmei5zZXRBdHRyaWJ1dGUoJ3NyYycsJ2h0dHBzOi8vY2RuLmZyYW5rZXJmYWNlei5jb20vc2NyaXB0L3NjcmlwdC5taW4uanMnKTsgXCIgK1xuICAgICAgICAgICAgICAgIFwiZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChmZnopOyBcIiArXG4gICAgICAgICAgICAgIFwifSkoKTtcIlxuICAgICAgICAgICAgfSwgZnVuY3Rpb24ocmVzdWx0KSB7XG4gICAgICAgICAgICB9KTtcbiAgICAgICAgICB9XG5cbiAgICAgICAgICBpZiAod2luZG93Lmhvc3QgJiYgd2luZG93Lmhvc3QuaG9zdFJlYWR5KSB7XG4gICAgICAgICAgICBvbkhvc3RSZWFkeSgpO1xuICAgICAgICAgIH0gZWxzZSB7XG4gICAgICAgICAgICB3aW5kb3cuYWRkRXZlbnRMaXN0ZW5lcignaG9zdFJlYWR5Jywgb25Ib3N0UmVhZHkuYmluZCh0aGlzKSk7XG4gICAgICAgICAgfVxuICAgICAgICB9KSgpO1xuXG4gICAgICAgIHdpbmRvdy5hZGRFdmVudExpc3RlbmVyKFxuICAgICAgICAgICdjbGljaycsXG4gICAgICAgICAgZnVuY3Rpb24oZSkge1xuICAgICAgICAgICAgZnVuY3Rpb24gZ2V0QWJzb2x1dGVVcmwocGFydGlhbFVybCkge1xuICAgICAgICAgICAgICB2YXIgbGluayA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoXCJhXCIpO1xuICAgICAgICAgICAgICBsaW5rLmhyZWYgPSBwYXJ0aWFsVXJsO1xuICAgICAgICAgICAgICByZXR1cm4gbGluay5ocmVmO1xuICAgICAgICAgICAgfVxuXG4gICAgICAgICAgICBmdW5jdGlvbiBoYXNDbGFzcyhlbGVtZW50LCBjbGFzc05hbWUpIHtcbiAgICAgICAgICAgICAgaWYgKCFlbGVtZW50KSByZXR1cm4gZmFsc2U7XG5cbiAgICAgICAgICAgICAgZm9yIChjb25zdCBwYXJ0IG9mIGVsZW1lbnQuY2xhc3NOYW1lLnRvTG93ZXJDYXNlKCkuc3BsaXQoJyAnKSkge1xuICAgICAgICAgICAgICAgIGlmIChwYXJ0ID09PSBjbGFzc05hbWUudG9Mb3dlckNhc2UoKSkge1xuICAgICAgICAgICAgICAgICAgcmV0dXJuIHRydWU7XG4gICAgICAgICAgICAgICAgfVxuICAgICAgICAgICAgICB9XG5cbiAgICAgICAgICAgICAgcmV0dXJuIGZhbHNlO1xuICAgICAgICAgICAgfVxuICAgXG4gICAgICAgICAgICBpZiAoZS50YXJnZXQubm9kZU5hbWUudG9Mb3dlckNhc2UoKSA9PT0gJ2EnICYmIGUudGFyZ2V0LmhyZWYgIT09ICcjJyAmJiBlLnRhcmdldC5ocmVmICE9PSAnJykge1xuICAgICAgICAgICAgICBlLnByZXZlbnREZWZhdWx0KCk7XG4gIFxuICAgICAgICAgICAgICBpZiAoaGFzQ2xhc3MoZS50YXJnZXQucGFyZW50RWxlbWVudCwgJ2NoYXQtbGluZV9fbWVzc2FnZS0tZGVsZXRlZCcpKSB7XG4gICAgICAgICAgICAgICAgLy8gRGVsZXRlZCBtZXNzYWdlIHBsYWNlaG9sZGVyLCBkbyBub3RoaW5nXG4gICAgICAgICAgICAgIH1cbiAgICAgICAgICAgICAgZWxzZSBpZiAoaGFzQ2xhc3MoZS50YXJnZXQucGFyZW50RWxlbWVudCwgJ21lc3NhZ2UnKSkge1xuICAgICAgICAgICAgICAgIC8vIENoYXQgbWVzc2FnZSBsaW5rOiBvcGVuIGRlc2t0b3AgYnJvd3NlclxuICAgICAgICAgICAgICAgIHdpbmRvdy5ob3N0Lm9wZW5EZWZhdWx0QnJvd3NlcihlLnRhcmdldC5ocmVmLCBmdW5jdGlvbihyZXN1bHQpIHsgfSk7XG4gICAgICAgICAgICAgIH0gXG4gICAgICAgICAgICAgIGVsc2UgaWYgKGhhc0NsYXNzKGUudGFyZ2V0LnBhcmVudEVsZW1lbnQsICd0dy10b29sdGlwLXdyYXBwZXInKSkge1xuICAgICAgICAgICAgICAgIC8vIENoY
+15:32:55.142: obs-browser: state: restoring state from json: {"dockingBrowserWidgets":{"{24d7dd32-8d27-4be2-bf46-2b8839dfbfa7}":{"dockingArea":"left","executeJavaScriptOnLoad":"\n        (function() {\n          window.addEventListener('auxclick', function(e) { e.preventDefault(); });\n          window.localStorage.setItem('bttv_darkenedMode', true);\n          var bttv = document.createElement('script');\n          bttv.setAttribute('src', 'https://cdn.betterttv.net/betterttv.js');\n          document.head.appendChild(bttv);\n          var ffz = document.createElement('script');\n          ffz.setAttribute('src','https://cdn.frankerfacez.com/script/script.min.js');\n          document.head.appendChild(ffz);\n          \n          function onHostReady() {\n            if (!window.host.setContainerForeignPopupWindowsProperties) return;\n            \n            window.host.setContainerForeignPopupWindowsProperties({\n              executeJavaScriptOnLoad: \"(function() { \" +\n                \"window.localStorage.setItem('bttv_darkenedMode', true); \" +\n                \"var bttv = document.createElement('script'); \" +\n                \"bttv.setAttribute('src', 'https://cdn.betterttv.net/betterttv.js'); \" +\n                \"document.head.appendChild(bttv); \" +\n                \"var ffz = document.createElement('script'); \" +\n                \"ffz.setAttribute('src','https://cdn.frankerfacez.com/script/script.min.js'); \" +\n                \"document.head.appendChild(ffz); \" +\n              \"})();\"\n            }, function(result) {\n            });\n          }\n\n          if (window.host && window.host.hostReady) {\n            onHostReady();\n          } else {\n            window.addEventListener('hostReady', onHostReady.bind(this));\n          }\n        })();\n\n        window.addEventListener(\n          'click',\n          function(e) {\n            function getAbsoluteUrl(partialUrl) {\n              var link = document.createElement(\"a\");\n              link.href = partialUrl;\n              return link.href;\n            }\n\n            function hasClass(element, className) {\n              if (!element) return false;\n\n              for (const part of element.className.toLowerCase().split(' ')) {\n                if (part === className.toLowerCase()) {\n                  return true;\n                }\n              }\n\n              return false;\n            }\n   \n            if (e.target.nodeName.toLowerCase() === 'a' && e.target.href !== '#' && e.target.href !== '') {\n              e.preventDefault();\n  \n              if (hasClass(e.target.parentElement, 'chat-line__message--deleted')) {\n                // Deleted message placeholder, do nothing\n              }\n              else if (hasClass(e.target.parentElement, 'message')) {\n                // Chat message link: open desktop browser\n                window.host.openDefaultBrowser(e.target.href, function(result) { });\n              } \n              else if (hasClass(e.target.parentElement, 'tw-tooltip-wrapper')) {\n                // Chat message link with tooltip wrapper: open desktop browser\n                window.host.openDefaultBrowser(e.target.href, function(result) { });\n              } \n              else {\n                // Other links: open OBS.Live pop-up\n                window.host.openPopupWindow(\n                  {\n                    url: getAbsoluteUrl(e.target.href),\n                    enableHostApi: false\n                  }, function(result) { });\n              }\n            }\n          },\n          true);\n        ","height":768,"id":"{24d7dd32-8d27-4be2-bf46-2b8839dfbfa7}","left":0,"minHeight":375,"minWidth":320,"title":"Chat","top":21,"url":"https://twitch.tv/popout/vulcanerlp/chat","visible":true,"width":435},"{3a195414-0b35-47e3-b938-ef4134fbdee4}":{"dockingArea":"right","executeJavaScriptOnLoad":"","height":768,"id":"{3a195414-0b35-47e3-b938-ef4134fbdee4}","left":1513,"minHeight":375,"minWidth":375,"title":"Activity feed","top":21,"url":"https://obs.streamelements.com/activity-feed","visible
+15:32:55.142: obs-browser: state: restoring workers: {}
+15:32:55.142: obs-browser: state: restoring docking widgets: {"{24d7dd32-8d27-4be2-bf46-2b8839dfbfa7}":{"dockingArea":"left","executeJavaScriptOnLoad":"\n        (function() {\n          window.addEventListener('auxclick', function(e) { e.preventDefault(); });\n          window.localStorage.setItem('bttv_darkenedMode', true);\n          var bttv = document.createElement('script');\n          bttv.setAttribute('src', 'https://cdn.betterttv.net/betterttv.js');\n          document.head.appendChild(bttv);\n          var ffz = document.createElement('script');\n          ffz.setAttribute('src','https://cdn.frankerfacez.com/script/script.min.js');\n          document.head.appendChild(ffz);\n          \n          function onHostReady() {\n            if (!window.host.setContainerForeignPopupWindowsProperties) return;\n            \n            window.host.setContainerForeignPopupWindowsProperties({\n              executeJavaScriptOnLoad: \"(function() { \" +\n                \"window.localStorage.setItem('bttv_darkenedMode', true); \" +\n                \"var bttv = document.createElement('script'); \" +\n                \"bttv.setAttribute('src', 'https://cdn.betterttv.net/betterttv.js'); \" +\n                \"document.head.appendChild(bttv); \" +\n                \"var ffz = document.createElement('script'); \" +\n                \"ffz.setAttribute('src','https://cdn.frankerfacez.com/script/script.min.js'); \" +\n                \"document.head.appendChild(ffz); \" +\n              \"})();\"\n            }, function(result) {\n            });\n          }\n\n          if (window.host && window.host.hostReady) {\n            onHostReady();\n          } else {\n            window.addEventListener('hostReady', onHostReady.bind(this));\n          }\n        })();\n\n        window.addEventListener(\n          'click',\n          function(e) {\n            function getAbsoluteUrl(partialUrl) {\n              var link = document.createElement(\"a\");\n              link.href = partialUrl;\n              return link.href;\n            }\n\n            function hasClass(element, className) {\n              if (!element) return false;\n\n              for (const part of element.className.toLowerCase().split(' ')) {\n                if (part === className.toLowerCase()) {\n                  return true;\n                }\n              }\n\n              return false;\n            }\n   \n            if (e.target.nodeName.toLowerCase() === 'a' && e.target.href !== '#' && e.target.href !== '') {\n              e.preventDefault();\n  \n              if (hasClass(e.target.parentElement, 'chat-line__message--deleted')) {\n                // Deleted message placeholder, do nothing\n              }\n              else if (hasClass(e.target.parentElement, 'message')) {\n                // Chat message link: open desktop browser\n                window.host.openDefaultBrowser(e.target.href, function(result) { });\n              } \n              else if (hasClass(e.target.parentElement, 'tw-tooltip-wrapper')) {\n                // Chat message link with tooltip wrapper: open desktop browser\n                window.host.openDefaultBrowser(e.target.href, function(result) { });\n              } \n              else {\n                // Other links: open OBS.Live pop-up\n                window.host.openPopupWindow(\n                  {\n                    url: getAbsoluteUrl(e.target.href),\n                    enableHostApi: false\n                  }, function(result) { });\n              }\n            }\n          },\n          true);\n        ","height":768,"id":"{24d7dd32-8d27-4be2-bf46-2b8839dfbfa7}","left":0,"minHeight":375,"minWidth":320,"title":"Chat","top":21,"url":"https://twitch.tv/popout/vulcanerlp/chat","visible":true,"width":435},"{3a195414-0b35-47e3-b938-ef4134fbdee4}":{"dockingArea":"right","executeJavaScriptOnLoad":"","height":768,"id":"{3a195414-0b35-47e3-b938-ef4134fbdee4}","left":1513,"minHeight":375,"minWidth":375,"title":"Activity feed","top":21,"url":"https://obs.streamelements.com/activity-feed","visible":true,"width":385},"{3cd
+15:32:55.153: obs-browser[1]: StreamElementsCefClient: initialized
+15:32:55.243: obs-browser: state: restoring notification bar: null
+15:32:55.244: obs-browser: state: restoring hotkey bindings: []
+15:32:55.244: obs-browser: state: restoring geometry: AdnQywACAAAAAAeEAAAADQAADv0AAAQPAAAHjAAAACwAAA71AAAEBwAAAAEAAAAAB4A=
+15:32:55.244: obs-browser: state: restoring windowState: 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
+15:32:55.248: NVENC supported
+15:32:55.337: VLC found, VLC video source enabled
+15:32:55.340: No blackmagic support
+15:32:55.344: Failed to load 'cs-CZ' text for module: 'win-openvr.dll'
+15:32:55.344: ---------------------------------
+15:32:55.344:   Loaded Modules:
+15:32:55.344:     win-wasapi.dll
+15:32:55.344:     win-openvr.dll
+15:32:55.344:     win-mf.dll
+15:32:55.344:     win-dshow.dll
+15:32:55.344:     win-decklink.dll
+15:32:55.344:     win-capture.dll
+15:32:55.344:     vlc-video.dll
+15:32:55.344:     text-freetype2.dll
+15:32:55.344:     rtmp-services.dll
+15:32:55.344:     obs-x264.dll
+15:32:55.344:     obs-vst.dll
+15:32:55.344:     obs-transitions.dll
+15:32:55.344:     obs-text.dll
+15:32:55.344:     obs-streamelements.dll
+15:32:55.344:     obs-qsv11.dll
+15:32:55.344:     obs-outputs.dll
+15:32:55.344:     obs-filters.dll
+15:32:55.344:     obs-ffmpeg.dll
+15:32:55.344:     obs-browser.dll
+15:32:55.344:     image-source.dll
+15:32:55.344:     frontend-tools.dll
+15:32:55.344:     enc-amf.dll
+15:32:55.344:     decklink-ouput-ui.dll
+15:32:55.344:     coreaudio-encoder.dll
+15:32:55.344: ---------------------------------
+15:32:55.345: ==== Startup complete ===============================================
+15:32:55.348: All scene data cleared
+15:32:55.348: ------------------------------------------------
+15:32:55.354: [WASAPISource::TryInitialize]:[Realtek HD Audio 2nd output (Realtek High Definition Audio)] Failed to activate client context: 88890004
+15:32:55.354: [WASAPISource::WASAPISource] Device '{0.0.0.00000000}.{f7ea4ba3-af9d-4aee-967a-12905839ea64}' not found.  Waiting for device
+15:32:55.356: [window-capture: 'web'] update settings:
+15:32:55.356: 	executable: firefox.exe
+15:32:55.383: WASAPI: Device 'Mikrofon (Samson Meteor Mic)' initialized
+15:32:55.428: WASAPI: Device 'Reproduktory (Realtek High Definition Audio)' initialized
+15:32:55.430: [Media Source 'Song']: settings:
+15:32:55.430: 	input:                   D:/Plocha/Písničky/NCS speedup/Uplink &amp; Alex Skrindo - Me &amp; You (feat. Axol) [NCS Release] (320  kbps) (YouTube 2 MP3 Converter).mp3
+15:32:55.430: 	input_format:            (null)
+15:32:55.430: 	speed:                   100
+15:32:55.430: 	is_looping:              yes
+15:32:55.430: 	is_hw_decoding:          yes
+15:32:55.430: 	is_clear_on_media_end:   yes
+15:32:55.430: 	restart_on_activate:     yes
+15:32:55.430: 	close_when_inactive:     no
+15:32:55.434: warning: Estimating duration from bitrate, this may be inaccurate
+15:32:55.445: [Media Source '(null)']: settings:
+15:32:55.445: 	input:                   D:/Plocha/Stream/Graf/MG_Transition_EXPLO_NoAudio.webm
+15:32:55.445: 	input_format:            (null)
+15:32:55.445: 	speed:                   100
+15:32:55.445: 	is_looping:              no
+15:32:55.445: 	is_hw_decoding:          yes
+15:32:55.445: 	is_clear_on_media_end:   yes
+15:32:55.445: 	restart_on_activate:     yes
+15:32:55.445: 	close_when_inactive:     no
+15:32:55.445: Switched to scene 'Game'
+15:32:55.445: ------------------------------------------------
+15:32:55.445: Loaded scenes:
+15:32:55.445: - scene 'Intro':
+15:32:55.445:     - source: 'Song' (ffmpeg_source)
+15:32:55.445:     - source: 'overlay' (browser_source)
+15:32:55.445: - scene 'BRB':
+15:32:55.445:     - source: 'Song' (ffmpeg_source)
+15:32:55.445:     - source: 'overlay_brb' (browser_source)
+15:32:55.445: - scene 'Game':
+15:32:55.445:     - source: 'ELGATO' (dshow_input)
+15:32:55.445:         - monitoring: monitor and output
+15:32:55.446:     - source: 'OpenVR Capture' (win-openvr)
+15:32:55.446:     - source: 'webka' (dshow_input)
+15:32:55.446:     - source: 'overlay_hra' (browser_source)
+15:32:55.446:     - source: 'Záznam zvukového výstupu' (wasapi_output_capture)
+15:32:55.446:     - source: 'Záznam zvukového vstupu' (wasapi_input_capture)
+15:32:55.446:         - filter: 'Potlačení šumu' (noise_suppress_filter)
+15:32:55.446: - scene 'Talk':
+15:32:55.446:     - source: 'overlay_talk' (browser_source)
+15:32:55.446:     - source: 'webka' (dshow_input)
+15:32:55.446:     - source: 'Záznam zvukového vstupu' (wasapi_input_capture)
+15:32:55.446:         - filter: 'Potlačení šumu' (noise_suppress_filter)
+15:32:55.446:     - source: 'web' (window_capture)
+15:32:55.446:     - source: 'Záznam obrazovky' (monitor_capture)
+15:32:55.446: ------------------------------------------------
+15:32:55.461: adding 64 milliseconds of audio buffering, total audio buffering is now 64 milliseconds (source: Záznam zvukového vstupu)
+15:32:55.461: 
+15:32:55.574: obs-browser[2]: StreamElementsCefClient: initialized
+15:32:55.659: obs-browser[3]: StreamElementsCefClient: initialized
+15:32:55.787: obs-browser[1]: start loading main frame url 'data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL3R3aXRjaC50di9wb3BvdXQvdnVsY2FuZXJscC9jaGF0IiAvPgo8L2hlYWQ+Cjxib2R5IG9ubG9hZD0ibG9jYXRpb24uaHJlZiA9ICdodHRwczovL3R3aXRjaC50di9wb3BvdXQvdnVsY2FuZXJscC9jaGF0JzsgcmV0dXJuIGZhbHNlIj4KCTxkaXYgc3R5bGU9InBvc2l0aW9uOiBmaXhlZDsgbGVmdDogNTAlOyB0b3A6IDUwJTsgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7IHRleHQtYWxpZ246IGNlbnRlciI+CgoJCTxkaXYgY2xhc3M9Imxkcy1jc3Mgbmctc2NvcGUiPgoJCQk8ZGl2IHN0eWxlPSJ3aWR0aDoxMDAlO2hlaWdodDoxMDAlIiBjbGFzcz0ibGRzLXJpcHBsZSI+PGRpdj48L2Rpdj48ZGl2PjwvZGl2PjwvZGl2PgoJCQk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJCQkJQGtleWZyYW1lcyBsZHMtcmlwcGxlIHsKCQkJCQkwJSB7CgkJCQkJCXRvcDogOTZweDsKCQkJCQkJbGVmdDogOTZweDsKCQkJCQkJd2lkdGg6IDA7CgkJCQkJCWhlaWdodDogMDsKCQkJCQkJb3BhY2l0eTogMTsKCQkJCQl9CgoJCQkJCTEwMCUgewoJCQkJCQl0b3A6IDU4cHg7CgkJCQkJCWxlZnQ6IDU4cHg7CgkJCQkJCXdpZHRoOiA3NnB4OwoJCQkJCQloZWlnaHQ6IDc2cHg7CgkJCQkJCW9wYWNpdHk6IDA7CgkJCQkJfQoJCQkJfQoKCQkJCUAtd2Via2l0LWtleWZyYW1lcyBsZHMtcmlwcGxlIHsKCQkJCQkwJSB7CgkJCQkJCXRvcDogOTZweDsKCQkJCQkJbGVmdDogOTZweDsKCQkJCQkJd2lkdGg6IDA7CgkJCQkJCWhlaWdodDogMDsKCQkJCQkJb3BhY2l0eTogMTsKCQkJCQl9CgoJCQkJCTEwMCUgewoJCQkJCQl0b3A6IDU4cHg7CgkJCQkJCWxlZnQ6IDU4cHg7CgkJCQkJCXdpZHRoOiA3NnB4OwoJCQkJCQloZWlnaHQ6IDc2cHg7CgkJCQkJCW9wYWNpdHk6IDA7CgkJCQkJfQoJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQlwb3NpdGlvbjogcmVsYXRpdmU7CgkJCQl9CgoJCQkJCS5sZHMtcmlwcGxlIGRpdiB7CgkJCQkJCWJveC1zaXppbmc6IGNvbnRlbnQtYm94OwoJCQkJCQlwb3NpdGlvbjogYWJzb2x1dGU7CgkJCQkJCWJvcmRlci13aWR0aDogNHB4OwoJCQkJCQlib3JkZXItc3R5bGU6IHNvbGlkOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCQlib3JkZXItcmFkaXVzOiA1MCU7CgkJCQkJCS13ZWJraXQtYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJCWFuaW1hdGlvbjogbGRzLXJpcHBsZSAxcyBjdWJpYy1iZXppZXIoMCwgMC4yLCAwLjgsIDEpIGluZmluaXRlOwoJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMSkgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZTkwYzU5OwoJCQkJCQl9CgoJCQkJCQkubGRzLXJpcHBsZSBkaXY6bnRoLWNoaWxkKDIpIHsKCQkJCQkJCWJvcmRlci1jb2xvcjogI2ZlNzE4ZDsKCQkJCQkJCS13ZWJraXQtYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJCWFuaW1hdGlvbi1kZWxheTogLTAuNXM7CgkJCQkJCX0KCgkJCQkubGRzLXJpcHBsZSB7CgkJCQkJd2lkdGg6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJaGVpZ2h0OiAyMDBweCAhaW1wb3J0YW50OwoJCQkJCS13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJCXRyYW5zZm9ybTogdHJhbnNsYXRlKC0xMDBweCwgLTEwMHB4KSBzY2FsZSgxKSB0cmFuc2xhdGUoMTAwcHgsIDEwMHB4KTsKCQkJCX0KCQkJPC9zdHlsZT4KCQk8L2Rpdj4KCTwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K' (transition_type: 1)
+15:32:55.787: obs-browser[3]: start loading main frame url 'data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL29icy5zdHJlYW1lbGVtZW50cy5jb20vbWVkaWFyZXF1ZXN0L2Jvb3RzdHJhcCIgLz4KPC9oZWFkPgo8Ym9keSBvbmxvYWQ9ImxvY2F0aW9uLmhyZWYgPSAnaHR0cHM6Ly9vYnMuc3RyZWFtZWxlbWVudHMuY29tL21lZGlhcmVxdWVzdC9ib290c3RyYXAnOyByZXR1cm4gZmFsc2UiPgoJPGRpdiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiA1MCU7IHRvcDogNTAlOyB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsgdGV4dC1hbGlnbjogY2VudGVyIj4KCgkJPGRpdiBjbGFzcz0ibGRzLWNzcyBuZy1zY29wZSI+CgkJCTxkaXYgc3R5bGU9IndpZHRoOjEwMCU7aGVpZ2h0OjEwMCUiIGNsYXNzPSJsZHMtcmlwcGxlIj48ZGl2PjwvZGl2PjxkaXY+PC9kaXY+PC9kaXY+CgkJCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CgkJCQlAa2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJQC13ZWJraXQta2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJLmxkcy1yaXBwbGUgewoJCQkJCXBvc2l0aW9uOiByZWxhdGl2ZTsKCQkJCX0KCgkJCQkJLmxkcy1yaXBwbGUgZGl2IHsKCQkJCQkJYm94LXNpemluZzogY29udGVudC1ib3g7CgkJCQkJCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCQkJCQkJYm9yZGVyLXdpZHRoOiA0cHg7CgkJCQkJCWJvcmRlci1zdHlsZTogc29saWQ7CgkJCQkJCW9wYWNpdHk6IDE7CgkJCQkJCWJvcmRlci1yYWRpdXM6IDUwJTsKCQkJCQkJLXdlYmtpdC1hbmltYXRpb246IGxkcy1yaXBwbGUgMXMgY3ViaWMtYmV6aWVyKDAsIDAuMiwgMC44LCAxKSBpbmZpbml0ZTsKCQkJCQkJYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJfQoKCQkJCQkJLmxkcy1yaXBwbGUgZGl2Om50aC1jaGlsZCgxKSB7CgkJCQkJCQlib3JkZXItY29sb3I6ICNlOTBjNTk7CgkJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMikgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZmU3MThkOwoJCQkJCQkJLXdlYmtpdC1hbmltYXRpb24tZGVsYXk6IC0wLjVzOwoJCQkJCQkJYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQl3aWR0aDogMjAwcHggIWltcG9ydGFudDsKCQkJCQloZWlnaHQ6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtMTAwcHgsIC0xMDBweCkgc2NhbGUoMSkgdHJhbnNsYXRlKDEwMHB4LCAxMDBweCk7CgkJCQkJdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJfQoJCQk8L3N0eWxlPgoJCTwvZGl2PgoJPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=' (transition_type: 1)
+15:32:55.788: obs-browser[2]: start loading main frame url 'data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL29icy5zdHJlYW1lbGVtZW50cy5jb20vYWN0aXZpdHktZmVlZCIgLz4KPC9oZWFkPgo8Ym9keSBvbmxvYWQ9ImxvY2F0aW9uLmhyZWYgPSAnaHR0cHM6Ly9vYnMuc3RyZWFtZWxlbWVudHMuY29tL2FjdGl2aXR5LWZlZWQnOyByZXR1cm4gZmFsc2UiPgoJPGRpdiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiA1MCU7IHRvcDogNTAlOyB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsgdGV4dC1hbGlnbjogY2VudGVyIj4KCgkJPGRpdiBjbGFzcz0ibGRzLWNzcyBuZy1zY29wZSI+CgkJCTxkaXYgc3R5bGU9IndpZHRoOjEwMCU7aGVpZ2h0OjEwMCUiIGNsYXNzPSJsZHMtcmlwcGxlIj48ZGl2PjwvZGl2PjxkaXY+PC9kaXY+PC9kaXY+CgkJCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CgkJCQlAa2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJQC13ZWJraXQta2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJLmxkcy1yaXBwbGUgewoJCQkJCXBvc2l0aW9uOiByZWxhdGl2ZTsKCQkJCX0KCgkJCQkJLmxkcy1yaXBwbGUgZGl2IHsKCQkJCQkJYm94LXNpemluZzogY29udGVudC1ib3g7CgkJCQkJCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCQkJCQkJYm9yZGVyLXdpZHRoOiA0cHg7CgkJCQkJCWJvcmRlci1zdHlsZTogc29saWQ7CgkJCQkJCW9wYWNpdHk6IDE7CgkJCQkJCWJvcmRlci1yYWRpdXM6IDUwJTsKCQkJCQkJLXdlYmtpdC1hbmltYXRpb246IGxkcy1yaXBwbGUgMXMgY3ViaWMtYmV6aWVyKDAsIDAuMiwgMC44LCAxKSBpbmZpbml0ZTsKCQkJCQkJYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJfQoKCQkJCQkJLmxkcy1yaXBwbGUgZGl2Om50aC1jaGlsZCgxKSB7CgkJCQkJCQlib3JkZXItY29sb3I6ICNlOTBjNTk7CgkJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMikgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZmU3MThkOwoJCQkJCQkJLXdlYmtpdC1hbmltYXRpb24tZGVsYXk6IC0wLjVzOwoJCQkJCQkJYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQl3aWR0aDogMjAwcHggIWltcG9ydGFudDsKCQkJCQloZWlnaHQ6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtMTAwcHgsIC0xMDBweCkgc2NhbGUoMSkgdHJhbnNsYXRlKDEwMHB4LCAxMDBweCk7CgkJCQkJdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJfQoJCQk8L3N0eWxlPgoJCTwvZGl2PgoJPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=' (transition_type: 1)
+15:32:55.795: obs-browser[2]: completed loading main frame url 'data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL29icy5zdHJlYW1lbGVtZW50cy5jb20vYWN0aXZpdHktZmVlZCIgLz4KPC9oZWFkPgo8Ym9keSBvbmxvYWQ9ImxvY2F0aW9uLmhyZWYgPSAnaHR0cHM6Ly9vYnMuc3RyZWFtZWxlbWVudHMuY29tL2FjdGl2aXR5LWZlZWQnOyByZXR1cm4gZmFsc2UiPgoJPGRpdiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiA1MCU7IHRvcDogNTAlOyB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsgdGV4dC1hbGlnbjogY2VudGVyIj4KCgkJPGRpdiBjbGFzcz0ibGRzLWNzcyBuZy1zY29wZSI+CgkJCTxkaXYgc3R5bGU9IndpZHRoOjEwMCU7aGVpZ2h0OjEwMCUiIGNsYXNzPSJsZHMtcmlwcGxlIj48ZGl2PjwvZGl2PjxkaXY+PC9kaXY+PC9kaXY+CgkJCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CgkJCQlAa2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJQC13ZWJraXQta2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJLmxkcy1yaXBwbGUgewoJCQkJCXBvc2l0aW9uOiByZWxhdGl2ZTsKCQkJCX0KCgkJCQkJLmxkcy1yaXBwbGUgZGl2IHsKCQkJCQkJYm94LXNpemluZzogY29udGVudC1ib3g7CgkJCQkJCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCQkJCQkJYm9yZGVyLXdpZHRoOiA0cHg7CgkJCQkJCWJvcmRlci1zdHlsZTogc29saWQ7CgkJCQkJCW9wYWNpdHk6IDE7CgkJCQkJCWJvcmRlci1yYWRpdXM6IDUwJTsKCQkJCQkJLXdlYmtpdC1hbmltYXRpb246IGxkcy1yaXBwbGUgMXMgY3ViaWMtYmV6aWVyKDAsIDAuMiwgMC44LCAxKSBpbmZpbml0ZTsKCQkJCQkJYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJfQoKCQkJCQkJLmxkcy1yaXBwbGUgZGl2Om50aC1jaGlsZCgxKSB7CgkJCQkJCQlib3JkZXItY29sb3I6ICNlOTBjNTk7CgkJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMikgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZmU3MThkOwoJCQkJCQkJLXdlYmtpdC1hbmltYXRpb24tZGVsYXk6IC0wLjVzOwoJCQkJCQkJYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQl3aWR0aDogMjAwcHggIWltcG9ydGFudDsKCQkJCQloZWlnaHQ6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtMTAwcHgsIC0xMDBweCkgc2NhbGUoMSkgdHJhbnNsYXRlKDEwMHB4LCAxMDBweCk7CgkJCQkJdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJfQoJCQk8L3N0eWxlPgoJCTwvZGl2PgoJPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=' (HTTP status code: 200)
+15:32:55.796: obs-browser[1]: completed loading main frame url 'data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL3R3aXRjaC50di9wb3BvdXQvdnVsY2FuZXJscC9jaGF0IiAvPgo8L2hlYWQ+Cjxib2R5IG9ubG9hZD0ibG9jYXRpb24uaHJlZiA9ICdodHRwczovL3R3aXRjaC50di9wb3BvdXQvdnVsY2FuZXJscC9jaGF0JzsgcmV0dXJuIGZhbHNlIj4KCTxkaXYgc3R5bGU9InBvc2l0aW9uOiBmaXhlZDsgbGVmdDogNTAlOyB0b3A6IDUwJTsgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7IHRleHQtYWxpZ246IGNlbnRlciI+CgoJCTxkaXYgY2xhc3M9Imxkcy1jc3Mgbmctc2NvcGUiPgoJCQk8ZGl2IHN0eWxlPSJ3aWR0aDoxMDAlO2hlaWdodDoxMDAlIiBjbGFzcz0ibGRzLXJpcHBsZSI+PGRpdj48L2Rpdj48ZGl2PjwvZGl2PjwvZGl2PgoJCQk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJCQkJQGtleWZyYW1lcyBsZHMtcmlwcGxlIHsKCQkJCQkwJSB7CgkJCQkJCXRvcDogOTZweDsKCQkJCQkJbGVmdDogOTZweDsKCQkJCQkJd2lkdGg6IDA7CgkJCQkJCWhlaWdodDogMDsKCQkJCQkJb3BhY2l0eTogMTsKCQkJCQl9CgoJCQkJCTEwMCUgewoJCQkJCQl0b3A6IDU4cHg7CgkJCQkJCWxlZnQ6IDU4cHg7CgkJCQkJCXdpZHRoOiA3NnB4OwoJCQkJCQloZWlnaHQ6IDc2cHg7CgkJCQkJCW9wYWNpdHk6IDA7CgkJCQkJfQoJCQkJfQoKCQkJCUAtd2Via2l0LWtleWZyYW1lcyBsZHMtcmlwcGxlIHsKCQkJCQkwJSB7CgkJCQkJCXRvcDogOTZweDsKCQkJCQkJbGVmdDogOTZweDsKCQkJCQkJd2lkdGg6IDA7CgkJCQkJCWhlaWdodDogMDsKCQkJCQkJb3BhY2l0eTogMTsKCQkJCQl9CgoJCQkJCTEwMCUgewoJCQkJCQl0b3A6IDU4cHg7CgkJCQkJCWxlZnQ6IDU4cHg7CgkJCQkJCXdpZHRoOiA3NnB4OwoJCQkJCQloZWlnaHQ6IDc2cHg7CgkJCQkJCW9wYWNpdHk6IDA7CgkJCQkJfQoJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQlwb3NpdGlvbjogcmVsYXRpdmU7CgkJCQl9CgoJCQkJCS5sZHMtcmlwcGxlIGRpdiB7CgkJCQkJCWJveC1zaXppbmc6IGNvbnRlbnQtYm94OwoJCQkJCQlwb3NpdGlvbjogYWJzb2x1dGU7CgkJCQkJCWJvcmRlci13aWR0aDogNHB4OwoJCQkJCQlib3JkZXItc3R5bGU6IHNvbGlkOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCQlib3JkZXItcmFkaXVzOiA1MCU7CgkJCQkJCS13ZWJraXQtYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJCWFuaW1hdGlvbjogbGRzLXJpcHBsZSAxcyBjdWJpYy1iZXppZXIoMCwgMC4yLCAwLjgsIDEpIGluZmluaXRlOwoJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMSkgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZTkwYzU5OwoJCQkJCQl9CgoJCQkJCQkubGRzLXJpcHBsZSBkaXY6bnRoLWNoaWxkKDIpIHsKCQkJCQkJCWJvcmRlci1jb2xvcjogI2ZlNzE4ZDsKCQkJCQkJCS13ZWJraXQtYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJCWFuaW1hdGlvbi1kZWxheTogLTAuNXM7CgkJCQkJCX0KCgkJCQkubGRzLXJpcHBsZSB7CgkJCQkJd2lkdGg6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJaGVpZ2h0OiAyMDBweCAhaW1wb3J0YW50OwoJCQkJCS13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJCXRyYW5zZm9ybTogdHJhbnNsYXRlKC0xMDBweCwgLTEwMHB4KSBzY2FsZSgxKSB0cmFuc2xhdGUoMTAwcHgsIDEwMHB4KTsKCQkJCX0KCQkJPC9zdHlsZT4KCQk8L2Rpdj4KCTwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K' (HTTP status code: 200)
+15:32:55.799: obs-browser[3]: completed loading main frame url 'data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL29icy5zdHJlYW1lbGVtZW50cy5jb20vbWVkaWFyZXF1ZXN0L2Jvb3RzdHJhcCIgLz4KPC9oZWFkPgo8Ym9keSBvbmxvYWQ9ImxvY2F0aW9uLmhyZWYgPSAnaHR0cHM6Ly9vYnMuc3RyZWFtZWxlbWVudHMuY29tL21lZGlhcmVxdWVzdC9ib290c3RyYXAnOyByZXR1cm4gZmFsc2UiPgoJPGRpdiBzdHlsZT0icG9zaXRpb246IGZpeGVkOyBsZWZ0OiA1MCU7IHRvcDogNTAlOyB0cmFuc2Zvcm06IHRyYW5zbGF0ZSgtNTAlLCAtNTAlKTsgdGV4dC1hbGlnbjogY2VudGVyIj4KCgkJPGRpdiBjbGFzcz0ibGRzLWNzcyBuZy1zY29wZSI+CgkJCTxkaXYgc3R5bGU9IndpZHRoOjEwMCU7aGVpZ2h0OjEwMCUiIGNsYXNzPSJsZHMtcmlwcGxlIj48ZGl2PjwvZGl2PjxkaXY+PC9kaXY+PC9kaXY+CgkJCTxzdHlsZSB0eXBlPSJ0ZXh0L2NzcyI+CgkJCQlAa2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJQC13ZWJraXQta2V5ZnJhbWVzIGxkcy1yaXBwbGUgewoJCQkJCTAlIHsKCQkJCQkJdG9wOiA5NnB4OwoJCQkJCQlsZWZ0OiA5NnB4OwoJCQkJCQl3aWR0aDogMDsKCQkJCQkJaGVpZ2h0OiAwOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCX0KCgkJCQkJMTAwJSB7CgkJCQkJCXRvcDogNThweDsKCQkJCQkJbGVmdDogNThweDsKCQkJCQkJd2lkdGg6IDc2cHg7CgkJCQkJCWhlaWdodDogNzZweDsKCQkJCQkJb3BhY2l0eTogMDsKCQkJCQl9CgkJCQl9CgoJCQkJLmxkcy1yaXBwbGUgewoJCQkJCXBvc2l0aW9uOiByZWxhdGl2ZTsKCQkJCX0KCgkJCQkJLmxkcy1yaXBwbGUgZGl2IHsKCQkJCQkJYm94LXNpemluZzogY29udGVudC1ib3g7CgkJCQkJCXBvc2l0aW9uOiBhYnNvbHV0ZTsKCQkJCQkJYm9yZGVyLXdpZHRoOiA0cHg7CgkJCQkJCWJvcmRlci1zdHlsZTogc29saWQ7CgkJCQkJCW9wYWNpdHk6IDE7CgkJCQkJCWJvcmRlci1yYWRpdXM6IDUwJTsKCQkJCQkJLXdlYmtpdC1hbmltYXRpb246IGxkcy1yaXBwbGUgMXMgY3ViaWMtYmV6aWVyKDAsIDAuMiwgMC44LCAxKSBpbmZpbml0ZTsKCQkJCQkJYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJfQoKCQkJCQkJLmxkcy1yaXBwbGUgZGl2Om50aC1jaGlsZCgxKSB7CgkJCQkJCQlib3JkZXItY29sb3I6ICNlOTBjNTk7CgkJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMikgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZmU3MThkOwoJCQkJCQkJLXdlYmtpdC1hbmltYXRpb24tZGVsYXk6IC0wLjVzOwoJCQkJCQkJYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQl3aWR0aDogMjAwcHggIWltcG9ydGFudDsKCQkJCQloZWlnaHQ6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJLXdlYmtpdC10cmFuc2Zvcm06IHRyYW5zbGF0ZSgtMTAwcHgsIC0xMDBweCkgc2NhbGUoMSkgdHJhbnNsYXRlKDEwMHB4LCAxMDBweCk7CgkJCQkJdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJfQoJCQk8L3N0eWxlPgoJCTwvZGl2PgoJPC9kaXY+CjwvYm9keT4KPC9odG1sPgo=' (HTTP status code: 200)
+15:32:55.817: obs-browser[1]: CONSOLE: Uncaught SecurityError: Failed to read the 'localStorage' property from 'Window': Storage is disabled inside 'data:' URLs. (source: data:text/html;base64,PCFET0NUWVBFIGh0bWw+CjxodG1sPgo8aGVhZD4KCTxzdHlsZT4KCQlib2R5IHsKCQkJYmFja2dyb3VuZC1jb2xvcjogIzExMDAyMjsKCQkJb3ZlcmZsb3c6IGhpZGRlbjsKCQl9Cgk8L3N0eWxlPgoKCTxtZXRhIGh0dHAtZXF1aXY9InJlZnJlc2giIGNvbnRlbnQ9IjU7IHVybD1odHRwczovL3R3aXRjaC50di9wb3BvdXQvdnVsY2FuZXJscC9jaGF0IiAvPgo8L2hlYWQ+Cjxib2R5IG9ubG9hZD0ibG9jYXRpb24uaHJlZiA9ICdodHRwczovL3R3aXRjaC50di9wb3BvdXQvdnVsY2FuZXJscC9jaGF0JzsgcmV0dXJuIGZhbHNlIj4KCTxkaXYgc3R5bGU9InBvc2l0aW9uOiBmaXhlZDsgbGVmdDogNTAlOyB0b3A6IDUwJTsgdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTUwJSwgLTUwJSk7IHRleHQtYWxpZ246IGNlbnRlciI+CgoJCTxkaXYgY2xhc3M9Imxkcy1jc3Mgbmctc2NvcGUiPgoJCQk8ZGl2IHN0eWxlPSJ3aWR0aDoxMDAlO2hlaWdodDoxMDAlIiBjbGFzcz0ibGRzLXJpcHBsZSI+PGRpdj48L2Rpdj48ZGl2PjwvZGl2PjwvZGl2PgoJCQk8c3R5bGUgdHlwZT0idGV4dC9jc3MiPgoJCQkJQGtleWZyYW1lcyBsZHMtcmlwcGxlIHsKCQkJCQkwJSB7CgkJCQkJCXRvcDogOTZweDsKCQkJCQkJbGVmdDogOTZweDsKCQkJCQkJd2lkdGg6IDA7CgkJCQkJCWhlaWdodDogMDsKCQkJCQkJb3BhY2l0eTogMTsKCQkJCQl9CgoJCQkJCTEwMCUgewoJCQkJCQl0b3A6IDU4cHg7CgkJCQkJCWxlZnQ6IDU4cHg7CgkJCQkJCXdpZHRoOiA3NnB4OwoJCQkJCQloZWlnaHQ6IDc2cHg7CgkJCQkJCW9wYWNpdHk6IDA7CgkJCQkJfQoJCQkJfQoKCQkJCUAtd2Via2l0LWtleWZyYW1lcyBsZHMtcmlwcGxlIHsKCQkJCQkwJSB7CgkJCQkJCXRvcDogOTZweDsKCQkJCQkJbGVmdDogOTZweDsKCQkJCQkJd2lkdGg6IDA7CgkJCQkJCWhlaWdodDogMDsKCQkJCQkJb3BhY2l0eTogMTsKCQkJCQl9CgoJCQkJCTEwMCUgewoJCQkJCQl0b3A6IDU4cHg7CgkJCQkJCWxlZnQ6IDU4cHg7CgkJCQkJCXdpZHRoOiA3NnB4OwoJCQkJCQloZWlnaHQ6IDc2cHg7CgkJCQkJCW9wYWNpdHk6IDA7CgkJCQkJfQoJCQkJfQoKCQkJCS5sZHMtcmlwcGxlIHsKCQkJCQlwb3NpdGlvbjogcmVsYXRpdmU7CgkJCQl9CgoJCQkJCS5sZHMtcmlwcGxlIGRpdiB7CgkJCQkJCWJveC1zaXppbmc6IGNvbnRlbnQtYm94OwoJCQkJCQlwb3NpdGlvbjogYWJzb2x1dGU7CgkJCQkJCWJvcmRlci13aWR0aDogNHB4OwoJCQkJCQlib3JkZXItc3R5bGU6IHNvbGlkOwoJCQkJCQlvcGFjaXR5OiAxOwoJCQkJCQlib3JkZXItcmFkaXVzOiA1MCU7CgkJCQkJCS13ZWJraXQtYW5pbWF0aW9uOiBsZHMtcmlwcGxlIDFzIGN1YmljLWJlemllcigwLCAwLjIsIDAuOCwgMSkgaW5maW5pdGU7CgkJCQkJCWFuaW1hdGlvbjogbGRzLXJpcHBsZSAxcyBjdWJpYy1iZXppZXIoMCwgMC4yLCAwLjgsIDEpIGluZmluaXRlOwoJCQkJCX0KCgkJCQkJCS5sZHMtcmlwcGxlIGRpdjpudGgtY2hpbGQoMSkgewoJCQkJCQkJYm9yZGVyLWNvbG9yOiAjZTkwYzU5OwoJCQkJCQl9CgoJCQkJCQkubGRzLXJpcHBsZSBkaXY6bnRoLWNoaWxkKDIpIHsKCQkJCQkJCWJvcmRlci1jb2xvcjogI2ZlNzE4ZDsKCQkJCQkJCS13ZWJraXQtYW5pbWF0aW9uLWRlbGF5OiAtMC41czsKCQkJCQkJCWFuaW1hdGlvbi1kZWxheTogLTAuNXM7CgkJCQkJCX0KCgkJCQkubGRzLXJpcHBsZSB7CgkJCQkJd2lkdGg6IDIwMHB4ICFpbXBvcnRhbnQ7CgkJCQkJaGVpZ2h0OiAyMDBweCAhaW1wb3J0YW50OwoJCQkJCS13ZWJraXQtdHJhbnNmb3JtOiB0cmFuc2xhdGUoLTEwMHB4LCAtMTAwcHgpIHNjYWxlKDEpIHRyYW5zbGF0ZSgxMDBweCwgMTAwcHgpOwoJCQkJCXRyYW5zZm9ybTogdHJhbnNsYXRlKC0xMDBweCwgLTEwMHB4KSBzY2FsZSgxKSB0cmFuc2xhdGUoMTAwcHgsIDEwMHB4KTsKCQkJCX0KCQkJPC9zdHlsZT4KCQk8L2Rpdj4KCTwvZGl2Pgo8L2JvZHk+CjwvaHRtbD4K:4)
+15:32:55.929: webka: data.GetDevice failed
+15:32:55.929: webka: Video configuration failed
+15:32:56.207: ---------------------------------
+15:32:56.207: [DShow Device: 'ELGATO'] settings updated: 
+15:32:56.207: 	video device: Game Capture HD60 Pro (Video) (#01)
+15:32:56.207: 	video path: \\?\pci#ven_12ab&dev_0380&subsys_00061cfa&rev_00#6&36dcf01&0&0030020b#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{6f814be9-9af6-43cf-9249-c03401000222}
+15:32:56.207: 	resolution: 1920x1080
+15:32:56.207: 	fps: 60.00 (interval: 166666)
+15:32:56.207: 	format: YV12
+15:32:56.211: 	using video device audio: no
+15:32:56.211: 	separate audio filter
+15:32:56.211: 	sample rate: 48000
+15:32:56.211: 	channels: 2
+15:32:56.211: 	audio type: Capture
+15:32:57.074: obs-browser[3]: start loading main frame url 'https://obs.streamelements.com/mediarequest/bootstrap' (transition_type: 40000000)
+15:32:57.074: obs-browser[2]: start loading main frame url 'https://obs.streamelements.com/activity-feed' (transition_type: 40000000)
+15:32:57.104: obs-browser[1]: start loading main frame url 'https://www.twitch.tv/popout/vulcanerlp/chat' (transition_type: 40000000)
+15:32:57.297: obs-browser[2]: CONSOLE: Use `shouldComponentUpdate` in an `observer` based component breaks the behavior of `observer` and might lead to unexpected results. Manually implementing `sCU` should not be needed when using mobx-react. (source: https://d33wubrfki0l68.cloudfront.net/js/3bd269ffb1bfb668b519e0295c69bb847b63c241/yoink/static/activityfeed.bundle.865c8915.js:2)
+15:32:57.385: obs-browser[2]: API: posting call to 'getSystemCPUUsageTimes', callback id 1, args: []
+15:32:57.386: obs-browser[2]: API: performing call to 'getSystemCPUUsageTimes', callback id 1
+15:32:57.386: obs-browser[2]: API: posting call to 'getHostProperties', callback id 2, args: []
+15:32:57.386: obs-browser[2]: API: completed call to 'getSystemCPUUsageTimes', callback id 1
+15:32:57.386: obs-browser[2]: API: performing call to 'getHostProperties', callback id 2
+15:32:57.386: obs-browser[2]: API: completed call to 'getHostProperties', callback id 2
+15:32:57.487: obs-browser[3]: CONSOLE: No jwt token is present (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:57.488: obs-browser[3]: API: posting call to 'getHostProperties', callback id 1, args: []
+15:32:57.488: obs-browser[3]: API: performing call to 'getHostProperties', callback id 1
+15:32:57.488: obs-browser[3]: CONSOLE: Sending word for active widgets (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:57.488: obs-browser[3]: API: completed call to 'getHostProperties', callback id 1
+15:32:57.489: obs-browser[3]: API: posting call to 'broadcastMessage', callback id 2, args: [{"payload":{"class":"command","event":{"name":"getActiveMediaShareWidgets"}},"version":1}]
+15:32:57.489: obs-browser[3]: CONSOLE: Booting up CIA systems (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:57.489: obs-browser[3]: CONSOLE: Attaching obs stream listeners... (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:57.489: obs-browser[3]: API: performing call to 'broadcastMessage', callback id 2
+15:32:57.489: obs-browser[3]: CONSOLE: Attached hostStreamingStarted (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:57.489: obs-browser[3]: CONSOLE: Attached hostStreamingStopped (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:57.489: obs-browser[3]: API: completed call to 'broadcastMessage', callback id 2
+15:32:57.535: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 3, args: []
+15:32:57.536: obs-browser[2]: API: performing call to 'getAllManagedHotkeyBindings', callback id 3
+15:32:57.536: obs-browser[2]: API: completed call to 'getAllManagedHotkeyBindings', callback id 3
+15:32:57.792: obs-browser[2]: completed loading main frame url 'https://obs.streamelements.com/activity-feed' (HTTP status code: 200)
+15:32:57.989: obs-browser[1]: completed loading main frame url 'https://www.twitch.tv/popout/vulcanerlp/chat' (HTTP status code: 200)
+15:32:57.995: obs-browser[1]: API: posting call to 'setContainerForeignPopupWindowsProperties', callback id 1, args: [{"executeJavaScriptOnLoad":"(function() { window.localStorage.setItem('bttv_darkenedMode', true); var bttv = document.createElement('script'); bttv.setAttribute('src', 'https://cdn.betterttv.net/betterttv.js'); document.head.appendChild(bttv); var ffz = document.createElement('script'); ffz.setAttribute('src','https://cdn.frankerfacez.com/script/script.min.js'); document.head.appendChild(ffz); })();"}]
+15:32:57.996: obs-browser[1]: API: performing call to 'setContainerForeignPopupWindowsProperties', callback id 1
+15:32:57.996: obs-browser[1]: API: completed call to 'setContainerForeignPopupWindowsProperties', callback id 1
+15:32:58.117: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 3, args: []
+15:32:58.118: obs-browser[3]: CONSOLE: Received Host message (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:58.118: obs-browser[3]: CONSOLE: Word for active widgets sent. (source: https://d33wubrfki0l68.cloudfront.net/js/e00fff50a44a256ab68a0d340c706defd701e929/yoink/static/mediarequest.bundle.1bdddd97.js:2)
+15:32:58.118: obs-browser[3]: API: performing call to 'getAllManagedHotkeyBindings', callback id 3
+15:32:58.118: obs-browser[3]: API: completed call to 'getAllManagedHotkeyBindings', callback id 3
+15:32:58.189: obs-browser[1]: start loading child frame url 'about:blank' (transition_type: 3)
+15:32:58.189: obs-browser[1]: completed loading child frame url 'about:blank' (HTTP status code: 0)
+15:32:58.261: obs-browser[3]: completed loading main frame url 'https://obs.streamelements.com/mediarequest/bootstrap' (HTTP status code: 200)
+15:32:58.464: obs-browser: %cHOLD UP!        (source: https://streamelements.com/overlay/scripts/app-c22f4c5797.js:63)
+15:32:58.534: obs-browser: Stream Elements client version: 1fe8c6a987dd690f551f2b71aaf4e6541b7330b6 (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:58.560: obs-browser[1]: CONSOLE: %cFFZ:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.562: obs-browser[1]: CONSOLE: %cFFZ [%csettings%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.566: obs-browser[1]: CONSOLE: %cFFZ [%csite%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.568: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.570: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:58.587: obs-browser[1]: CONSOLE: %cFFZ [%ccore%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.591: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.614: obs-browser[1]: CONSOLE: %cFFZ [%csite%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.617: obs-browser[1]: CONSOLE: %cFFZ [%csettings%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.618: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.621: obs-browser[1]: CONSOLE: %cFFZ [%craven%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.625: obs-browser[1]: CONSOLE: %cFFZ [%csite.switchboard%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.626: obs-browser[1]: CONSOLE: %cFFZ [%csite.switchboard%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.638: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.638: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.640: obs-browser[1]: CONSOLE: %cFFZ [%csite.switchboard%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.640: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.641: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:58.642: obs-browser[1]: CONSOLE: Uncaught (in promise) #<Object> (source: https://www.twitch.tv/popout/vulcanerlp/chat:0)
+15:32:58.858: obs-browser[1]: CONSOLE: %cFFZ [%cmain_menu%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.043: obs-browser: updating session! (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.044: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.054: obs-browser: Bootstrap complete (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.114: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.114: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.115: obs-browser[1]: CONSOLE: %cFFZ [%csite.fine%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.131: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.132: obs-browser: %cHOLD UP!        (source: https://streamelements.com/overlay/scripts/app-c22f4c5797.js:63)
+15:32:59.136: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.140: obs-browser: %cHOLD UP!        (source: https://streamelements.com/overlay/scripts/app-c22f4c5797.js:63)
+15:32:59.146: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.148: obs-browser: %cHOLD UP!        (source: https://streamelements.com/overlay/scripts/app-c22f4c5797.js:63)
+15:32:59.161: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.167: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.171: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.178: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.203: obs-browser[1]: CONSOLE: %cFFZ [%csite.web_munch%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.241: obs-browser[1]: CONSOLE: %cFFZ [%cexperiments%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.247: obs-browser: se-widget-alertbox 2: Skipping alert due to no data (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.247: obs-browser: Stream Elements client version: 1fe8c6a987dd690f551f2b71aaf4e6541b7330b6 (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.252: obs-browser: Stream Elements client version: 1fe8c6a987dd690f551f2b71aaf4e6541b7330b6 (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.260: obs-browser: Stream Elements client version: 1fe8c6a987dd690f551f2b71aaf4e6541b7330b6 (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.282: obs-browser: Store item was not found (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.287: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.289: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.301: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.323: obs-browser[1]: CONSOLE: %cFFZ [%ccore%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.333: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.342: obs-browser[1]: CONSOLE: %cFFZ [%cchat.emotes%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.342: obs-browser[1]: CONSOLE: %cFFZ [%cchat.emotes%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.343: obs-browser[1]: CONSOLE: %cFFZ [%cchat.emotes%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.347: obs-browser[1]: CONSOLE: %cFFZ [%cchat.badges%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.348: obs-browser[1]: CONSOLE: %cFFZ [%cchat.badges%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.401: obs-browser[1]: CONSOLE: %cFFZ [%cchat.badges%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.401: obs-browser[1]: CONSOLE: %cFFZ [%cchat.badges%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.485: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.485: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.485: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.485: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.486: obs-browser[1]: CONSOLE: %cFFZ [%csocket%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.555: obs-browser: [QUEUE]: is already in that state (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.555: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.583: obs-browser: Authenticated (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:32:59.840: obs-browser[1]: CONSOLE: %cFFZ [%cchat.emotes%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:32:59.957: obs-browser: Authenticated (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.313: obs-browser[1]: CONSOLE: %cFFZ [%cchat.emoji%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:33:00.444: obs-browser: Authenticated (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.614: obs-browser: updating session! (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.615: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.624: obs-browser: Bootstrap complete (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.656: obs-browser: updating session! (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.657: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.666: obs-browser: Bootstrap complete (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.673: obs-browser: updating session! (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.675: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:00.685: obs-browser: Bootstrap complete (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.034: obs-browser: Got the two badge responses (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.249: obs-browser: se-widget-alertbox 2: Skipping alert due to no data (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.261: obs-browser: se-widget-alertbox 2: Skipping alert due to no data (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.280: obs-browser: Store item was not found (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.299: obs-browser: se-widget-alertbox 3: Skipping alert due to no data (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.302: obs-browser: se-widget-alertbox 4: Skipping alert due to no data (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.318: obs-browser: Store item was not found (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.509: obs-browser: [QUEUE]: is already in that state (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.509: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.602: obs-browser: Authenticated (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.652: obs-browser: [QUEUE]: is already in that state (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.652: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.786: obs-browser: [QUEUE]: is already in that state (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.786: obs-browser: Setting alert service muted state to (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:01.879: obs-browser: Got the two badge responses (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:02.357: obs-browser: Got the two badge responses (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:03.093: obs-browser: Got the two badge responses (source: https://streamelements.com/overlay/scripts/vendor-f39f14fcd8.js:35)
+15:33:03.616: obs-browser[1]: CONSOLE: %cFFZ [%csettings%c]:%c (source: https://cdn.betterttv.net/betterttv.js:192)
+15:33:13.363: Settings changed (outputs)
+15:33:13.363: ------------------------------------------------
+15:33:30.531: ==== Shutting down ==================================================
+15:33:30.539: Switched to scene '(null)'
+15:33:30.540: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 4, args: []
+15:33:30.540: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 4, args: []
+15:33:30.540: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 5, args: []
+15:33:30.540: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 5, args: []
+15:33:30.540: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 6, args: []
+15:33:30.540: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 6, args: []
+15:33:30.540: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 7, args: []
+15:33:30.540: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 7, args: []
+15:33:30.540: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 8, args: []
+15:33:30.540: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 8, args: []
+15:33:30.543: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 9, args: []
+15:33:30.543: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 9, args: []
+15:33:30.543: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 10, args: []
+15:33:30.544: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 10, args: []
+15:33:30.544: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 11, args: []
+15:33:30.544: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 11, args: []
+15:33:30.544: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 12, args: []
+15:33:30.544: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 12, args: []
+15:33:30.544: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 13, args: []
+15:33:30.544: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 13, args: []
+15:33:30.544: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 14, args: []
+15:33:30.545: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 14, args: []
+15:33:30.545: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 15, args: []
+15:33:30.545: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 15, args: []
+15:33:30.545: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 16, args: []
+15:33:30.545: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 16, args: []
+15:33:30.545: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 17, args: []
+15:33:30.545: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 17, args: []
+15:33:30.545: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 18, args: []
+15:33:30.546: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 18, args: []
+15:33:30.546: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 19, args: []
+15:33:32.079: Last log entry repeated for 57 more lines
+15:33:32.079: WASAPI: Device 'Reproduktory (Realtek High Definition Audio)' Terminated
+15:33:32.081: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 48, args: []
+15:33:32.081: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 48, args: []
+15:33:32.081: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 49, args: []
+15:33:32.081: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 49, args: []
+15:33:32.086: WASAPI: Device 'Mikrofon (Samson Meteor Mic)' Terminated
+15:33:32.086: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 50, args: []
+15:33:32.086: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 50, args: []
+15:33:32.086: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 51, args: []
+15:33:32.086: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 51, args: []
+15:33:32.086: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 52, args: []
+15:33:32.086: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 52, args: []
+15:33:32.086: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 53, args: []
+15:33:32.086: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 53, args: []
+15:33:32.086: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 54, args: []
+15:33:32.086: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 54, args: []
+15:33:32.087: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 55, args: []
+15:33:32.087: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 55, args: []
+15:33:32.096: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 56, args: []
+15:33:32.096: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 56, args: []
+15:33:32.096: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 57, args: []
+15:33:32.096: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 57, args: []
+15:33:32.096: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 58, args: []
+15:33:32.096: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 58, args: []
+15:33:32.096: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 59, args: []
+15:33:32.096: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 59, args: []
+15:33:32.096: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 60, args: []
+15:33:32.097: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 60, args: []
+15:33:32.102: All scene data cleared
+15:33:32.102: ------------------------------------------------
+15:33:32.102: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 61, args: []
+15:33:32.102: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 61, args: []
+15:33:32.102: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 62, args: []
+15:33:32.102: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 62, args: []
+15:33:32.102: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 63, args: []
+15:33:32.102: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 63, args: []
+15:33:32.103: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 64, args: []
+15:33:32.103: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 64, args: []
+15:33:32.109: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 65, args: []
+15:33:32.109: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 65, args: []
+15:33:32.109: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 66, args: []
+15:33:32.110: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 67, args: []
+15:33:32.110: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 66, args: []
+15:33:32.110: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 68, args: []
+15:33:32.110: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 67, args: []
+15:33:32.110: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 69, args: []
+15:33:32.110: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 68, args: []
+15:33:32.110: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 69, args: []
+15:33:32.110: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 70, args: []
+15:33:32.110: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 70, args: []
+15:33:32.111: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 71, args: []
+15:33:32.111: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 72, args: []
+15:33:32.111: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 71, args: []
+15:33:32.111: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 73, args: []
+15:33:32.111: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 72, args: []
+15:33:32.111: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 73, args: []
+15:33:32.111: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 74, args: []
+15:33:32.111: obs-browser[2]: API: posting call to 'getAllManagedHotkeyBindings', callback id 75, args: []
+15:33:32.111: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 74, args: []
+15:33:32.111: obs-browser[3]: API: posting call to 'getAllManagedHotkeyBindings', callback id 75, args: []
+15:33:32.169: Freeing OBS context data
+15:33:32.230: [Scripting] Total detached callbacks: 0
+15:33:32.239: == Profiler Results =============================
+15:33:32.239: run_program_init: 1885.96 ms
+15:33:32.239:  ┣OBSApp::AppInit: 18.815 ms
+15:33:32.239:  ┃ ┗OBSApp::InitLocale: 1.739 ms
+15:33:32.239:  ┗OBSApp::OBSInit: 1762.05 ms
+15:33:32.239:    ┣obs_startup: 3.68 ms
+15:33:32.239:    ┗OBSBasic::OBSInit: 1432.71 ms
+15:33:32.239:      ┣OBSBasic::InitBasicConfig: 0.374 ms
+15:33:32.239:      ┣OBSBasic::ResetAudio: 0.136 ms
+15:33:32.239:      ┣OBSBasic::ResetVideo: 936.155 ms
+15:33:32.239:      ┣OBSBasic::InitOBSCallbacks: 0.007 ms
+15:33:32.239:      ┣OBSBasic::InitHotkeys: 0.073 ms
+15:33:32.239:      ┣obs_load_all_modules: 290.702 ms
+15:33:32.239:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.493 ms
+15:33:32.239:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.606 ms
+15:33:32.239:      ┃ ┣obs_init_module(enc-amf.dll): 34.51 ms
+15:33:32.239:      ┃ ┣obs_init_module(frontend-tools.dll): 4.446 ms
+15:33:32.239:      ┃ ┣obs_init_module(image-source.dll): 0.004 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-browser.dll): 136.732 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 0.924 ms
+15:33:32.239:      ┃ ┃ ┗nvenc_check: 0.874 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-filters.dll): 0.015 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-outputs.dll): 0.006 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-qsv11.dll): 73.251 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-streamelements.dll): 3.187 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-text.dll): 0.212 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-transitions.dll): 0.006 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-vst.dll): 0.001 ms
+15:33:32.239:      ┃ ┣obs_init_module(obs-x264.dll): 0.002 ms
+15:33:32.239:      ┃ ┣obs_init_module(rtmp-services.dll): 0.875 ms
+15:33:32.239:      ┃ ┣obs_init_module(text-freetype2.dll): 0.049 ms
+15:33:32.239:      ┃ ┣obs_init_module(vlc-video.dll): 1.353 ms
+15:33:32.239:      ┃ ┣obs_init_module(win-capture.dll): 0.103 ms
+15:33:32.239:      ┃ ┣obs_init_module(win-decklink.dll): 0.971 ms
+15:33:32.239:      ┃ ┣obs_init_module(win-dshow.dll): 1.413 ms
+15:33:32.239:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+15:33:32.239:      ┃ ┣obs_init_module(win-openvr.dll): 0.001 ms
+15:33:32.239:      ┃ ┣obs_init_module(win-wasapi.dll): 0.003 ms
+15:33:32.239:      ┃ ┗reset_win32_symbol_paths: 0.073 ms
+15:33:32.239:      ┣OBSBasic::ResetOutputs: 0.327 ms
+15:33:32.239:      ┣OBSBasic::CreateHotkeys: 0.197 ms
+15:33:32.239:      ┣OBSBasic::InitService: 1.262 ms
+15:33:32.239:      ┣OBSBasic::InitPrimitives: 0.084 ms
+15:33:32.239:      ┗OBSBasic::Load: 110.753 ms
+15:33:32.239: obs_hotkey_thread(25 ms): min=0.004 ms, median=0.008 ms, max=0.823 ms, 99th percentile=0.15 ms, 100% below 25 ms
+15:33:32.239: audio_thread(Audio): min=0 ms, median=0.076 ms, max=4.069 ms, 99th percentile=0.284 ms
+15:33:32.239: obs_graphics_thread(16.6667 ms): min=0.084 ms, median=0.424 ms, max=95.001 ms, 99th percentile=1.207 ms, 99.8646% below 16.667 ms
+15:33:32.239:  ┣tick_sources: min=0.002 ms, median=0.021 ms, max=74.499 ms, 99th percentile=0.047 ms
+15:33:32.239:  ┣output_frame: min=0.063 ms, median=0.229 ms, max=94.968 ms, 99th percentile=0.879 ms
+15:33:32.239:  ┃ ┗gs_context(video->graphics): min=0.062 ms, median=0.228 ms, max=94.967 ms, 99th percentile=0.879 ms
+15:33:32.239:  ┃   ┣render_video: min=0.006 ms, median=0.052 ms, max=6.411 ms, 99th percentile=0.654 ms
+15:33:32.239:  ┃   ┃ ┗render_main_texture: min=0.003 ms, median=0.047 ms, max=6.405 ms, 99th percentile=0.649 ms
+15:33:32.239:  ┃   ┗gs_flush: min=0.056 ms, median=0.144 ms, max=2.798 ms, 99th percentile=0.295 ms
+15:33:32.239:  ┗render_displays: min=0 ms, median=0.128 ms, max=4.238 ms, 99th percentile=0.367 ms
+15:33:32.239: OBSBasic::ResetOutputs: 0.358 ms
+15:33:32.239: =================================================
+15:33:32.239: == Profiler Time Between Calls ==================
+15:33:32.239: obs_hotkey_thread(25 ms): min=24.268 ms, median=25.007 ms, max=43.745 ms, 92.0157% within ±2% of 25 ms (0.065445% lower, 7.91885% higher)
+15:33:32.239: obs_graphics_thread(16.6667 ms): min=4.992 ms, median=16.667 ms, max=95.007 ms, 99.187% within ±2% of 16.667 ms (0.406504% lower, 0.406504% higher)
+15:33:32.239: =================================================
+15:33:32.254: Number of memory leaks: 26
